@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/78020605/118402909-e1b9cd80-b663-11eb-9b4f-c1c017e49798.png)
 
 
-### The geocoder uses the OpenStreetMap based  tool "Nominatim" to extract the coordinates from a list of location names. 
+### The geocoder uses the OpenStreetMap(OSM) based  tool "Nominatim" to extract the coordinates from a list of location names. 
 ### Dependencies: geopy, pandas
 
 #### Author: Syver Petersen
