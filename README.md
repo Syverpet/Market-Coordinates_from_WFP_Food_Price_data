@@ -1,0 +1,2 @@
+# Market-Coordinates_from_WFP_Food_Price_data
+This script automatically extracts (geocodes) the coordinates of markets from open access WFP food price data sets. Inputs are WFP food price data csv files, and outputs are two new csv files, locations that were found, locations not found. The geocoder uses the OpenStreetMap based  tool "Nominatim" to extract the coordinates from a list of location names. 
