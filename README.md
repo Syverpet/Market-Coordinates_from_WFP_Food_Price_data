@@ -4,7 +4,7 @@
 
 
 ## Inputs are WFP food price data csv files, and outputs are two new csv files, locations that were found, locations not found:
-![image](https://user-images.githubusercontent.com/78020605/118402808-7839bf00-b663-11eb-9c7d-31104509fd03.png)
+![image](https://user-images.githubusercontent.com/78020605/118402909-e1b9cd80-b663-11eb-9b4f-c1c017e49798.png)
 
 
 ### The geocoder uses the OpenStreetMap based  tool "Nominatim" to extract the coordinates from a list of location names. 
